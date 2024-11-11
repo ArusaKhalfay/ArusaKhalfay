@@ -1,6 +1,6 @@
 # Hi, I'm Arusa! 👋
 
-I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **deep learning**, **fine-tuning LLMs*, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
+I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **deep learning**, **fine-tuning LLMs**, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
 
 ### 🔹 About Me
 - 💼 Currently exploring roles in **data science**, **machine learning**, and **analytics**.
