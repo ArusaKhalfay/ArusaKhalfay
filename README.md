@@ -12,6 +12,8 @@ I'm a **Data Scientist** with 4+ years of experience across various industries. 
 - **[Chicken-Disease-Classification](https://github.com/ArusaKhalfay/Chicken-Disease-Classification)** - Image classification model for poultry disease detection.
 - **[Fine-Tuning-Mistral7b](https://github.com/ArusaKhalfay/Fine-Tuning-Mistral7b)** - Fine-tuning a language model to improve accuracy and reduce processing time.
 - **[RAG Retrieval-Augmented Generation](https://github.com/ArusaKhalfay/RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant)** - An application using **RAG** to enhance instruction assistance for games.
+- - **[Maryland-Finance](https://github.com/UMDMSISCapstone/marylandfinance)** - Team project analyzing and visualizing Maryland’s finance data.
+
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
