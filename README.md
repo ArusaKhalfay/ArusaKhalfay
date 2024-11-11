@@ -1,6 +1,6 @@
 # Hi, I'm Arusa! 👋
 
-I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
+I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **deep learning**, **fine-tuning LLMs*, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
 
 ### 🔹 About Me
 - 💼 Currently exploring roles in **data science**, **machine learning**, and **analytics**.
@@ -20,6 +20,7 @@ I'm a **Data Scientist** with 4+ years of experience across various industries. 
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arusakhalfay/)
