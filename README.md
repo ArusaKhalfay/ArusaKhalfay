@@ -2,11 +2,6 @@
 
 I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **deep learning**, **fine-tuning LLMs**, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
 
-### 🔹 About Me
-- 💼 Currently exploring roles in **data science**, **machine learning**, and **analytics**.
-- 🎓 Master's in **Information Systems**.
-- 🌱 Always learning and diving into new areas in **AI** and **cloud computing**.
-
 ### 🛠️ My Projects
 - **[Student-Score-Prediction](https://github.com/ArusaKhalfay/Student-Score-Prediction)** - Predicting student performance using machine learning techniques.
 - **[Chicken-Disease-Classification](https://github.com/ArusaKhalfay/Chicken-Disease-Classification)** - Image classification model for poultry disease detection.
