@@ -1,6 +1,6 @@
 # Hi, I'm Arusa! 👋  
 
-I'm a Data Scientist with a strong background in solving complex problems using data-driven approaches. My goal is to create impactful solutions that translate data into actionable insights, empowering businesses to make smarter decisions.
+- I'm a Data Scientist with a strong background in solving complex problems using data-driven approaches. My goal is to create impactful solutions that translate data into actionable insights, empowering businesses to make smarter decisions.
 ---
 
 ## 🛠️ Industry-Specific Projects  
