@@ -1,23 +1,43 @@
-# Hi, I'm Arusa! 👋
+# Hi, I'm Arusa! 👋  
 
-I'm a **Data Scientist** with 4+ years of experience across various industries. I specialize in **machine learning**, **deep learning**, **fine-tuning LLMs**, **data analysis**, and **model deployment**, with a passion for using data to drive actionable insights and informed decision-making.
+I'm a Data Scientist with a strong background in solving complex problems using data-driven approaches. My goal is to create impactful solutions that translate data into actionable insights, empowering businesses to make smarter decisions.
+---
 
-### 🛠️ My Projects
-- **[Student-Score-Prediction](https://github.com/ArusaKhalfay/Student-Score-Prediction)** - Predicting student performance using machine learning techniques.
-- **[Chicken-Disease-Classification](https://github.com/ArusaKhalfay/Chicken-Disease-Classification)** - Image classification model for poultry disease detection.
-- **[Fine-Tuning-Mistral7b](https://github.com/ArusaKhalfay/Fine-Tuning-Mistral7b)** - Fine-tuning a language model to improve accuracy and reduce processing time.
-- **[RAG Retrieval-Augmented Generation](https://github.com/ArusaKhalfay/RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant)** - An application using **RAG** to enhance instruction assistance for games.
-- **[Maryland-Finance](https://github.com/UMDMSISCapstone/marylandfinance)** - Team project analyzing and visualizing Maryland’s finance data.
+## 🛠️ Industry-Specific Projects  
 
+### **Healthcare**  
+- [Heart-Disease-Prediction](https://github.com/ArusaKhalfay/Heart-Disease-Prediction)  
+- [Diabetic-Retinopathy-Detection](https://github.com/ArusaKhalfay/Diabetic-Retinopathy-Detection)  
+- [Chicken-Disease-Classification](https://github.com/ArusaKhalfay/Chicken-Disease-Classification)  
 
-### 🧰 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+### **Marketing**  
+- [Sales-Forecasting-for-Champagne-Company](https://github.com/ArusaKhalfay/Sales-Forecasting-for-Champagne-Company)  
+- [Election-Exit-Poll-and-U.S-Presidential-Speech-Analysis](https://github.com/ArusaKhalfay/Election-Exit-Poll-and-U.S-Presidential-Speech-Analysis)  
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arusakhalfay/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arusakhalfay32@gmail.com)
+### **Telecom**  
+- [Customer-Churn-Prediction-for-a-Telecom-Company](https://github.com/ArusaKhalfay/Customer-Churn-Prediction-for-a-Telecom-Company)  
+
+### **Retail**  
+- [Customer-Segmentation-for-an-Online-Retail-Business](https://github.com/ArusaKhalfay/Customer-Segmentation-for-an-Online-Retail-Business)  
+- [Movie-Recommendation-System](https://github.com/ArusaKhalfay/Movie-Recommendation-System)  
+
+### **Human Resources**  
+- [Employee-Turnover-Analysis-and-Forecasting](https://github.com/ArusaKhalfay/Employee-Turnover-Analysis-and-Forecasting)  
+- [HR-Data-Analytics](https://github.com/ArusaKhalfay/HR-Data-Analytics)  
+- [Employee-Salary-Prediction](https://github.com/ArusaKhalfay/Employee-Salary-Prediction)  
+
+### **General Machine Learning**  
+- [Student-Score-Prediction](https://github.com/ArusaKhalfay/Student-Score-Prediction)  
+- [Leetcode](https://github.com/ArusaKhalfay/Leetcode)  
+
+### **AI**  
+- [Fine-Tuning-Mistral7b](https://github.com/ArusaKhalfay/Fine-Tuning-Mistral7b)  
+- [RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant](https://github.com/ArusaKhalfay/RAG-Retrieval-Augmented-Generation---Powered-Game-Instruction-Assistant)  
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/arusa-khalfay/)  
+- [Email](mailto:arusakhalfay32@gmail.com)  
 
